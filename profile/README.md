@@ -8,4 +8,4 @@ Janus LLM is focused on using Large Language Models (LLMs) to aid in legacy IT m
   - [Janus LLM](https://github.com/janus-llm/janus-llm) [[Docs](https://janus-llm.github.io/janus-llm)]
 
 * Parsing
-  - [IBM z/OS HLASM Tree-sitter Parser](https://github.com/janus-llm/tree-sitter-ibmhlasm) (Coming Soon)
+  - [IBM z/OS HLASM Tree-sitter Parser](https://github.com/janus-llm/tree-sitter-ibmhlasm)
